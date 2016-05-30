@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class FirstAssignment {
 	
-	int x = 10;
+	
 	
 	public static void main(String[] args) throws IOException{
 		Scanner scanner = new Scanner(System.in);
