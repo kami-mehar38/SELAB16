@@ -7,7 +7,11 @@ import java.util.Scanner;
 
 public class FirstAssignment {
 	
-	
+	/**
+	 * 
+	 * @param args
+	 * @throws IOException
+	 */
 	
 	public static void main(String[] args) throws IOException{
 		Scanner scanner = new Scanner(System.in);
