@@ -14,9 +14,6 @@ public class FirstAssignment {
 	 */
 	
 	public static void main(String[] args) throws IOException{
-		
-		int iv = 10;
-		iv = iv + iv;
 		Scanner scanner = new Scanner(System.in);
 		BufferedReader br = new BufferedReader(new
                 InputStreamReader(System.in));
