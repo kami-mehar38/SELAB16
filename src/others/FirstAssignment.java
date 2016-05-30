@@ -12,7 +12,7 @@ public class FirstAssignment {
 	 * @param args
 	 * @throws IOException
 	 */
-	
+
 	public static void main(String[] args) throws IOException{
 		
 		int iv = 10;
